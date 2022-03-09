@@ -13,4 +13,5 @@ parallel downloads with the help of concurrency
 
 # note
 the merge results may have flaws due to file compressing!
+
 memory management is neccessary for rather large files, not yet implemented!
