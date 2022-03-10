@@ -11,7 +11,6 @@ parallel downloads with the help of concurrency
 * run them simultaneously until all is Done
 * merge them
 
-<<<<<<< HEAD
 - just open the output with a proper application
 
 # note
@@ -23,9 +22,3 @@ the merge results may have flaws due to file compressing!
 </p>
 
 memory management is neccessary for rather large files, not yet implemented!
-=======
-# note
-the merge results may have flaws due to file compressing!
-
-memory management is neccessary for rather large files, not yet implemented!
->>>>>>> 27332434c7f6806cb6cbf0be591dca97f1cd3879
