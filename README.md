@@ -1,5 +1,5 @@
 # GoDM
-### Download manager with parallel downloads, implemented in GOlang (project)
+### Download manager with parallel downloads, implemented in GOlang 
 
 a simple download manager, written in GO
 parallel downloads with the help of concurrency
@@ -11,11 +11,23 @@ parallel downloads with the help of concurrency
 * run them simultaneously until all is Done
 * merge them
 
+# run
+- install <a href=https://go.dev/doc/install>Go</a>
+- in the program folder run `go run .`
 - just open the output with a proper application
 
 # note
 the merge results may have flaws due to file compressing!
 
-![alt-text-1](imgs/original.jpg "Original") ![alt-text-2](imgs/output.jpg "Downloaded and compressed")
+<table>
+  <tr>
+    <td>Original <a href=https://www.industrialempathy.com/img/remote/ZiClJf-1920w.jpg>(source)</a></td>
+     <td>Downloaded and Compressed</td>
+  </tr>
+  <tr>
+    <td><img src="imgs/original.jpg" width=533 height=300></td>
+    <td><img src="imgs/output.jpg" width=533 height=300></td>
+  </tr>
+ </table>
 
 memory management is neccessary for rather large files, not yet implemented!
