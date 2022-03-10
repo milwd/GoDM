@@ -14,7 +14,7 @@ parallel downloads with the help of concurrency
 # run
 - install <a href=https://go.dev/doc/install>Go</a>
 - in the program folder run `go run .`
-- just open the output with a proper application
+- open the output file with related applications
 
 # note
 the merge results may have flaws due to file compressing!
