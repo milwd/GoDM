@@ -16,9 +16,6 @@ parallel downloads with the help of concurrency
 # note
 the merge results may have flaws due to file compressing!
 
-<p float="left">
-  <img src="imgs/original.jpg" width="100" />
-  <img src="imgs/output.jpg" width="100" /> 
-</p>
+![alt-text-1](imgs/original.jpg "Original") ![alt-text-2](imgs/output.jpg "Downloaded and compressed")
 
 memory management is neccessary for rather large files, not yet implemented!
