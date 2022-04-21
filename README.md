@@ -1,5 +1,5 @@
 # GoDM
-### Download manager with parallel downloads, implemented in GOlang 
+### basic Download manager with parallel downloads, implemented in GOlang 
 
 a simple download manager, written in GO
 parallel downloads with the help of concurrency
